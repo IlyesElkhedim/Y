@@ -1,0 +1,12 @@
+{
+    "users": ["foo", "bar"],
+    "messages" : [
+        {"user" : "foo", "content": "Hello, world!"},
+        {"user" : "foo", "content": "What is this message?"},
+        {"user" : "foo", "content": "Hey, guys"},
+        {"user" : "bar", "content": "Good bye, world!"},
+        {"user" : "bar", "content": "Hello, you!"},
+        {"user" : "bar", "content": "Hello hello, world world world."},
+        {"user" : "bar", "content": "Coucou"}
+    ]
+}
